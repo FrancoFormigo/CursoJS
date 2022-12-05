@@ -50,20 +50,31 @@
 // ----[04]--- ECMA ---------------------------
 // -------------------------------------------- 
 
-// ES5
-var aux = 100; 
-var aux = "Hola"; //NO DA ERROR ES5
+// // ES5
+// var aux = 100; 
+// var aux = "Hola"; //NO DA ERROR ES5
 
-// ES6
-let cantidad = 10;
-// let cantidad = 0; ERROR A PARTIR DE ES6
+// // ES6
+// let cantidad = 10;
+// // let cantidad = 0; ERROR A PARTIR DE ES6
 
-// ES5
-var IVA = 21; // convencion de constante en ES5
-IVA++; //NO DA ERROR
-console.log(IVA);
+// // ES5
+// var IVA = 21; // convencion de constante en ES5
+// IVA++; //NO DA ERROR
+// console.log(IVA);
 
-// ES6
-const PI= 3.14;
-// PI++; ERROR POR CAMBIAR VALOR A UNA CONSTANTE
-console.log(PI);
+// // ES6
+// const PI= 3.14;
+// // PI++; ERROR POR CAMBIAR VALOR A UNA CONSTANTE
+// console.log(PI);
+
+// // DOM
+// const tituloH1 = document.getElementById("titular");
+// tituloH1.innerHTML= "Javascript";
+// tituloH1.style.color= "red";
+
+
+// --------------------------------CAPITULO----
+// ----[05]--- APP ----------------------------
+// -------------------------------------------- 
+

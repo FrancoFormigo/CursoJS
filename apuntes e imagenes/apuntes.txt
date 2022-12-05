@@ -1,0 +1,6 @@
+crear un div con id, que contenga 3 parrafos
+mas una section con 2 parrafos
+
+div#caja>(p*3)+section>p*2
+
+esta manera de introducir html se llama Emmet
